@@ -9,3 +9,10 @@ https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/
    https://www.geeksforgeeks.org/python-bitwise-operators/
    
    
+2 . Happy Number
+    Solved using list
+    Stored the result to a list & check if the result already present in list or not. If it is there then it will lead to an infinite loop and it is not a happy number. Else if result is 1 then return true.
+    https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/
+    
+   
+   
